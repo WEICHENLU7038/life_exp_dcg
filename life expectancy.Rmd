@@ -1,0 +1,13 @@
+---
+title: "Life Expectancy Analysis"
+author: "Wei-Chen Lu"
+date: "2020/1/14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Abstract
+we will examine the famous relationship between time and macium life expectancy as observed Oeppen and Vaupel (2002). 
