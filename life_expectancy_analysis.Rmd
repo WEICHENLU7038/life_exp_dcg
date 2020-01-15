@@ -16,7 +16,7 @@ library(gapminder)
 data("gapminder_unfiltered")
 gapminder_unfiltered
 ```
-#plot
+
 ```{r}
 gspi
 ```
