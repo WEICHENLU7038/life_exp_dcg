@@ -17,8 +17,9 @@ data("gapminder_unfiltered")
 gapminder_unfiltered
 ```
 
+Caculate maximum
 ```{r}
-gspi
+
 ```
 
 
